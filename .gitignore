@@ -57,11 +57,6 @@ lerna-debug.log*
 # Node modules
 **/node_modules/**
 
-# Images
-**/*.png
-**/*.jpg
-**/*.jpeg
-
 # Git and editor directories
 **/.git/**
 **/.vscode/**
